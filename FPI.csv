@@ -1,0 +1,364 @@
+﻿Tipo,Componente,Dimensión,Categoría TLB,Métrica,Calificación,Treemap_counter,Pesquería
+Input,Factores macro,Desempeño ambiental general,No aplica,Índice de Desempeño Ambiental,2,1,Langosta
+Input,Factores macro,Factores ambientales exógenos,No aplica,Enfermedades y patógenos,5,1,Langosta
+Input,Factores macro,Factores ambientales exógenos,No aplica,Desastres naturales y catástrofes,5,1,Langosta
+Input,Factores macro,Factores ambientales exógenos,No aplica,Shocks de contaminación y accidentes,5,1,Langosta
+Input,Factores macro,Factores ambientales exógenos,No aplica,Nivel de contaminación crónica (efectos en población biológica),5,1,Langosta
+Input,Factores macro,Factores ambientales exógenos,No aplica,Nivel de contaminación crónica (efectos en consumidores/as),5,1,Langosta
+Input,Factores macro,Gobernanza,No aplica,Calidad de gobernanza,2,1,Langosta
+Input,Factores macro,Gobernanza,No aplica,Capacidad de respuesta de la gobernanza,3,1,Langosta
+Input,Factores macro,Condiciones económicas,No aplica,Índice de Libertad Económica,2,1,Langosta
+Input,Factores macro,Condiciones económicas,No aplica,Producto Interno Bruto per cápita,3,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Proporción de la captura manejada bajo acceso limitado,5,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de transferibilidad,2,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de seguridad,5,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de durabilidad,5,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de flexibilidad,2,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de exclusividad,4,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Proporción de la captura con manejo basado en derechos,NA,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de transferibilidad,NA,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de seguridad,NA,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de durabilidad,NA,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de flexibilidad,NA,1,Langosta
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de exclusividad,NA,1,Langosta
+Input,Co-manejo,Acción colectiva,No aplica,Proporción de pescadores/as en organizaciones de pesca,4,1,Langosta
+Input,Co-manejo,Acción colectiva,No aplica,Influencia de las organizaciones de pesca en manejo y acceso,3,1,Langosta
+Input,Co-manejo,Acción colectiva,No aplica,Influencia de las organizaciones de pesca en negocios y mercado,2,1,Langosta
+Input,Co-manejo,Participación,No aplica,Días de reuniones con las partes interesadas,5,1,Langosta
+Input,Co-manejo,Participación,No aplica,Apoyo financiero de la industria pesquera para el manejo,1,1,Langosta
+Input,Co-manejo,Comunidad,No aplica,Liderazgo,3,1,Langosta
+Input,Co-manejo,Comunidad,No aplica,Cohesión social,4,1,Langosta
+Input,Co-manejo,Género,No aplica,Influencia en la gestión de negocios,2,1,Langosta
+Input,Co-manejo,Género,No aplica,Influencia en la gestión pesquera,1,1,Langosta
+Input,Co-manejo,Género,No aplica,Participación laboral en las capturas,1,1,Langosta
+Input,Co-manejo,Género,No aplica,Participación laboral post-captura,3,1,Langosta
+Input,Gestión,Entradas de gestión,No aplica,Gastos de manejo comparado con el valor de la captura,3,1,Langosta
+Input,Gestión,Entradas de gestión,No aplica,Capacidad de control y vigilancia,2,1,Langosta
+Input,Gestión,Entradas de gestión,No aplica,Jurisdicción en el manejo,5,1,Langosta
+Input,Gestión,Entradas de gestión,No aplica,Nivel de subsidios,5,1,Langosta
+Input,Gestión,Datos,No aplica,Disponibilidad de datos,3,1,Langosta
+Input,Gestión,Datos,No aplica,Análisis de datos,4,1,Langosta
+Input,Gestión,Métodos de gestión,No aplica,Áreas marinas protegidas y santuarios,2,1,Langosta
+Input,Gestión,Métodos de gestión,No aplica,Manejo espacial,1,1,Langosta
+Input,Gestión,Métodos de gestión,No aplica,Límites en la mortalidad por pesca,1,1,Langosta
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Sistema de precio de desembarques,1,1,Langosta
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Disponibilidad de información de precios de primera mano y cantidad,2,1,Langosta
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Número de compradores,2,1,Langosta
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Grado de integración vertical,1,1,Langosta
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Nivel de tarifas,5,1,Langosta
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Nivel de barreras no tarifarias,5,1,Langosta
+Input,Post-captura,Infraestructura,No aplica,Servicio de transporte de carga internacional,3,1,Langosta
+Input,Post-captura,Infraestructura,No aplica,Índice de calidad vial,2,1,Langosta
+Input,Post-captura,Infraestructura,No aplica,Adopción de tecnología,4,1,Langosta
+Input,Post-captura,Infraestructura,No aplica,Servicio de extensionismo,2,1,Langosta
+Input,Post-captura,Infraestructura,No aplica,Confianza en servicios públicos de electricidad,4,1,Langosta
+Input,Post-captura,Infraestructura,No aplica,Acceso a hielo y refrigeración,4,1,Langosta
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Porcentaje de sobrepesca de la especie,1,1,Langosta
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Grado de sobrepesca,2,1,Langosta
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,"Población decreciente, estable o en recuperación",4,1,Langosta
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Mortalidad reglamentada,5,1,Langosta
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Selectividad,5,1,Langosta
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,"Pesca ilegal, no regulada, no reglamentada",4,1,Langosta
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Estado del hábitat crítico,4,1,Langosta
+Output,Desempeño del sector extractivo,Extracción,Economía,Nivel de desembarques,4,1,Langosta
+Output,Desempeño del sector extractivo,Extracción,Economía,Exceso de capacidad pesquera,5,1,Langosta
+Output,Desempeño del sector extractivo,Extracción,Economía,Duración de la temporada de pesca,3,1,Langosta
+Output,Desempeño del sector extractivo,Extracción,Economía,Seguridad en el mar,5,1,Langosta
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Relación entre el valor de activos e ingresos brutos,1,1,Langosta
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Ingresos totales comparados con los máximos históricos,2,1,Langosta
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Valor de los activos comparado con los máximos históricos,4,1,Langosta
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Tasa de interés de préstamo comparada con tasa de interés libre de riesgo,4,1,Langosta
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Fuentes de financiamiento,2,1,Langosta
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Funcionalidad del capital para la extracción,4,1,Langosta
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los ingresos,2,1,Langosta
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los desembarques,3,1,Langosta
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad intra-anual de los desembarques,3,1,Langosta
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los precios,5,1,Langosta
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad intra-anual de los precios,5,1,Langosta
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad espacial de los precios,5,1,Langosta
+Output,Desempeño del sector extractivo,Riesgos,Comunidad,Contestabilidad y desafíos legales,3,1,Langosta
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Ganancias de los armadores comparadas con las ganancias promedio regionales,2,1,Langosta
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Salarios de los armadores comparadas con salarios de actividades no pesqueras,5,1,Langosta
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Acceso a la educación de los armadores,4,1,Langosta
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Acceso a la salud de los armadores,3,1,Langosta
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Estatus social de los armadores,2,1,Langosta
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Proporción de armadores no residentes,5,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Ganancias de la tripulación comparadas con las ganancias promedio regionales,2,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Salarios de la tripulación comparadas con salarios de actividades no pesqueras,5,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Acceso a la educación de la tripulación,3,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Acceso a la salud de la tripulación,3,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Estatus social de la tripulación,2,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Proporción tripulación no residente,5,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Experiencia de la tripulación,5,1,Langosta
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Estructura de edad de la tripulación,2,1,Langosta
+Output,Desempeño en post-captura,Mercado,Economía,Precios de primera mano comparado con los máximos históricos,3,1,Langosta
+Output,Desempeño en post-captura,Mercado,Economía,Uso final en el mercado,4,1,Langosta
+Output,Desempeño en post-captura,Mercado,Economía,Comercio internacional,4,1,Langosta
+Output,Desempeño en post-captura,Mercado,Economía,Riqueza final del mercado,4,1,Langosta
+Output,Desempeño en post-captura,Mercado,Economía,Precio mayorista comparado con productos similares,4,1,Langosta
+Output,Desempeño en post-captura,Mercado,Economía,Capacidad de las empresas para exportar a EEUU y UE,5,1,Langosta
+Output,Desempeño en post-captura,Mercado,Economía,Márgenes de ganancia entre precio de primera mano y precio mayorista,3,1,Langosta
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Rendimiento del procesamiento,2,1,Langosta
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Pérdida en procesamiento (shrink),4,1,Langosta
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Tasa en la capacidad de procesamiento,2,1,Langosta
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Mejora de producto,3,1,Langosta
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Comunidad,Sanidad,3,1,Langosta
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Empresas de soporte en la región,3,1,Langosta
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Tasa de interés de préstamo comparada con tasa de interés libre de riesgo,4,1,Langosta
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Fuentes de financiamiento,3,1,Langosta
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Edad de las instalaciones,3,1,Langosta
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Ganancias de gerentes comparadas con las ganancias promedio regionales,4,1,Langosta
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Salarios de gerentes comparadas con salarios de actividades no pesqueras,5,1,Langosta
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Acceso a la educación de gerentes,4,1,Langosta
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Acceso a la salud de gerentes,4,1,Langosta
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Estatus social de gerentes,4,1,Langosta
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Proporción de gerentes no residente,5,1,Langosta
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Ganancias de trabajadores/as comparadas con las ganancias promedio regionales,4,1,Langosta
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Salarios de trabajadores/as comparadas con salarios de actividades no pesqueras,5,1,Langosta
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Acceso a la educación de trabajadores/as,2,1,Langosta
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Acceso a la salud de trabajadores/as,4,1,Langosta
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Estatus social de trabajadores/as,4,1,Langosta
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Proporción de trabajadores/as no residente,5,1,Langosta
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Experiencia de trabajadores/as,4,1,Langosta
+Input,Factores macro,Desempeño ambiental general,No aplica,Índice de Desempeño Ambiental,1,1,Pesca de altura
+Input,Factores macro,Factores ambientales exógenos,No aplica,Enfermedades y patógenos,5,1,Pesca de altura
+Input,Factores macro,Factores ambientales exógenos,No aplica,Desastres naturales y catástrofes,4,1,Pesca de altura
+Input,Factores macro,Factores ambientales exógenos,No aplica,Shocks de contaminación y accidentes,4,1,Pesca de altura
+Input,Factores macro,Factores ambientales exógenos,No aplica,Nivel de contaminación crónica (efectos en población biológica),1,1,Pesca de altura
+Input,Factores macro,Factores ambientales exógenos,No aplica,Nivel de contaminación crónica (efectos en consumidores/as),4,1,Pesca de altura
+Input,Factores macro,Gobernanza,No aplica,Calidad de gobernanza,1,1,Pesca de altura
+Input,Factores macro,Gobernanza,No aplica,Capacidad de respuesta de la gobernanza,1,1,Pesca de altura
+Input,Factores macro,Condiciones económicas,No aplica,Índice de Libertad Económica,1,1,Pesca de altura
+Input,Factores macro,Condiciones económicas,No aplica,Producto Interno Bruto per cápita,2,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Proporción de la captura manejada bajo acceso limitado,1,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de transferibilidad,2,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de seguridad,2,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de durabilidad,1,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de flexibilidad,3,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de exclusividad,3,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Proporción de la captura con manejo basado en derechos,2,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de transferibilidad,NA,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de seguridad,NA,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de durabilidad,NA,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de flexibilidad,NA,1,Pesca de altura
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de exclusividad,NA,1,Pesca de altura
+Input,Co-manejo,Acción colectiva,No aplica,Proporción de pescadores/as en organizaciones de pesca,NA,1,Pesca de altura
+Input,Co-manejo,Acción colectiva,No aplica,Influencia de las organizaciones de pesca en manejo y acceso,1,1,Pesca de altura
+Input,Co-manejo,Acción colectiva,No aplica,Influencia de las organizaciones de pesca en negocios y mercado,1,1,Pesca de altura
+Input,Co-manejo,Participación,No aplica,Días de reuniones con las partes interesadas,5,1,Pesca de altura
+Input,Co-manejo,Participación,No aplica,Apoyo financiero de la industria pesquera para el manejo,2,1,Pesca de altura
+Input,Co-manejo,Comunidad,No aplica,Liderazgo,4,1,Pesca de altura
+Input,Co-manejo,Comunidad,No aplica,Cohesión social,2,1,Pesca de altura
+Input,Co-manejo,Género,No aplica,Influencia en la gestión de negocios,1,1,Pesca de altura
+Input,Co-manejo,Género,No aplica,Influencia en la gestión pesquera,4,1,Pesca de altura
+Input,Co-manejo,Género,No aplica,Participación laboral en las capturas,4,1,Pesca de altura
+Input,Co-manejo,Género,No aplica,Participación laboral post-captura,5,1,Pesca de altura
+Input,Gestión,Entradas de gestión,No aplica,Gastos de manejo comparado con el valor de la captura,5,1,Pesca de altura
+Input,Gestión,Entradas de gestión,No aplica,Capacidad de control y vigilancia,4,1,Pesca de altura
+Input,Gestión,Entradas de gestión,No aplica,Jurisdicción en el manejo,2,1,Pesca de altura
+Input,Gestión,Entradas de gestión,No aplica,Nivel de subsidios,2,1,Pesca de altura
+Input,Gestión,Datos,No aplica,Disponibilidad de datos,5,1,Pesca de altura
+Input,Gestión,Datos,No aplica,Análisis de datos,2,1,Pesca de altura
+Input,Gestión,Métodos de gestión,No aplica,Áreas marinas protegidas y santuarios,4,1,Pesca de altura
+Input,Gestión,Métodos de gestión,No aplica,Manejo espacial,3,1,Pesca de altura
+Input,Gestión,Métodos de gestión,No aplica,Límites en la mortalidad por pesca,5,1,Pesca de altura
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Sistema de precio de desembarques,4,1,Pesca de altura
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Disponibilidad de información de precios de primera mano y cantidad,2,1,Pesca de altura
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Número de compradores,4,1,Pesca de altura
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Grado de integración vertical,1,1,Pesca de altura
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Nivel de tarifas,1,1,Pesca de altura
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Nivel de barreras no tarifarias,1,1,Pesca de altura
+Input,Post-captura,Infraestructura,No aplica,Servicio de transporte de carga internacional,5,1,Pesca de altura
+Input,Post-captura,Infraestructura,No aplica,Índice de calidad vial,1,1,Pesca de altura
+Input,Post-captura,Infraestructura,No aplica,Adopción de tecnología,2,1,Pesca de altura
+Input,Post-captura,Infraestructura,No aplica,Servicio de extensionismo,1,1,Pesca de altura
+Input,Post-captura,Infraestructura,No aplica,Confianza en servicios públicos de electricidad,2,1,Pesca de altura
+Input,Post-captura,Infraestructura,No aplica,Acceso a hielo y refrigeración,4,1,Pesca de altura
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Porcentaje de sobrepesca de la especie,4,1,Pesca de altura
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Grado de sobrepesca,5,1,Pesca de altura
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,"Población decreciente, estable o en recuperación",5,1,Pesca de altura
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Mortalidad reglamentada,4,1,Pesca de altura
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Selectividad,5,1,Pesca de altura
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,"Pesca ilegal, no regulada, no reglamentada",4,1,Pesca de altura
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Estado del hábitat crítico,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Extracción,Economía,Nivel de desembarques,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Extracción,Economía,Exceso de capacidad pesquera,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Extracción,Economía,Duración de la temporada de pesca,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Extracción,Economía,Seguridad en el mar,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Relación entre el valor de activos e ingresos brutos,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Ingresos totales comparados con los máximos históricos,4,1,Pesca de altura
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Valor de los activos comparado con los máximos históricos,3,1,Pesca de altura
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Tasa de interés de préstamo comparada con tasa de interés libre de riesgo,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Fuentes de financiamiento,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Funcionalidad del capital para la extracción,2,1,Pesca de altura
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los ingresos,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los desembarques,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad intra-anual de los desembarques,2,1,Pesca de altura
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los precios,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad intra-anual de los precios,4,1,Pesca de altura
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad espacial de los precios,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Riesgos,Comunidad,Contestabilidad y desafíos legales,2,1,Pesca de altura
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Ganancias de los armadores comparadas con las ganancias promedio regionales,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Salarios de los armadores comparadas con salarios de actividades no pesqueras,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Acceso a la educación de los armadores,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Acceso a la salud de los armadores,3,1,Pesca de altura
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Estatus social de los armadores,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Proporción de armadores no residentes,2,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Ganancias de la tripulación comparadas con las ganancias promedio regionales,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Salarios de la tripulación comparadas con salarios de actividades no pesqueras,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Acceso a la educación de la tripulación,4,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Acceso a la salud de la tripulación,1,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Estatus social de la tripulación,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Proporción tripulación no residente,5,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Experiencia de la tripulación,2,1,Pesca de altura
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Estructura de edad de la tripulación,4,1,Pesca de altura
+Output,Desempeño en post-captura,Mercado,Economía,Precios de primera mano comparado con los máximos históricos,5,1,Pesca de altura
+Output,Desempeño en post-captura,Mercado,Economía,Uso final en el mercado,1,1,Pesca de altura
+Output,Desempeño en post-captura,Mercado,Economía,Comercio internacional,5,1,Pesca de altura
+Output,Desempeño en post-captura,Mercado,Economía,Riqueza final del mercado,2,1,Pesca de altura
+Output,Desempeño en post-captura,Mercado,Economía,Precio mayorista comparado con productos similares,5,1,Pesca de altura
+Output,Desempeño en post-captura,Mercado,Economía,Capacidad de las empresas para exportar a EEUU y UE,3,1,Pesca de altura
+Output,Desempeño en post-captura,Mercado,Economía,Márgenes de ganancia entre precio de primera mano y precio mayorista,2,1,Pesca de altura
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Rendimiento del procesamiento,4,1,Pesca de altura
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Pérdida en procesamiento (shrink),5,1,Pesca de altura
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Tasa en la capacidad de procesamiento,2,1,Pesca de altura
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Mejora de producto,3,1,Pesca de altura
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Comunidad,Sanidad,5,1,Pesca de altura
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Empresas de soporte en la región,4,1,Pesca de altura
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Tasa de interés de préstamo comparada con tasa de interés libre de riesgo,5,1,Pesca de altura
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Fuentes de financiamiento,1,1,Pesca de altura
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Edad de las instalaciones,2,1,Pesca de altura
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Ganancias de gerentes comparadas con las ganancias promedio regionales,2,1,Pesca de altura
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Salarios de gerentes comparadas con salarios de actividades no pesqueras,5,1,Pesca de altura
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Acceso a la educación de gerentes,5,1,Pesca de altura
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Acceso a la salud de gerentes,1,1,Pesca de altura
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Estatus social de gerentes,5,1,Pesca de altura
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Proporción de gerentes no residente,4,1,Pesca de altura
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Ganancias de trabajadores/as comparadas con las ganancias promedio regionales,1,1,Pesca de altura
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Salarios de trabajadores/as comparadas con salarios de actividades no pesqueras,2,1,Pesca de altura
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Acceso a la educación de trabajadores/as,2,1,Pesca de altura
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Acceso a la salud de trabajadores/as,3,1,Pesca de altura
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Estatus social de trabajadores/as,5,1,Pesca de altura
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Proporción de trabajadores/as no residente,1,1,Pesca de altura
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Experiencia de trabajadores/as,3,1,Pesca de altura
+Input,Factores macro,Desempeño ambiental general,No aplica,Índice de Desempeño Ambiental,3,1,Pepino de mar
+Input,Factores macro,Factores ambientales exógenos,No aplica,Enfermedades y patógenos,5,1,Pepino de mar
+Input,Factores macro,Factores ambientales exógenos,No aplica,Desastres naturales y catástrofes,3,1,Pepino de mar
+Input,Factores macro,Factores ambientales exógenos,No aplica,Shocks de contaminación y accidentes,5,1,Pepino de mar
+Input,Factores macro,Factores ambientales exógenos,No aplica,Nivel de contaminación crónica (efectos en población biológica),2,1,Pepino de mar
+Input,Factores macro,Factores ambientales exógenos,No aplica,Nivel de contaminación crónica (efectos en consumidores/as),1,1,Pepino de mar
+Input,Factores macro,Gobernanza,No aplica,Calidad de gobernanza,2,1,Pepino de mar
+Input,Factores macro,Gobernanza,No aplica,Capacidad de respuesta de la gobernanza,1,1,Pepino de mar
+Input,Factores macro,Condiciones económicas,No aplica,Índice de Libertad Económica,2,1,Pepino de mar
+Input,Factores macro,Condiciones económicas,No aplica,Producto Interno Bruto per cápita,2,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Proporción de la captura manejada bajo acceso limitado,1,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de transferibilidad,4,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de seguridad,5,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de durabilidad,4,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de flexibilidad,3,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos de acceso a la pesca,No aplica,Índice de exclusividad,2,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Proporción de la captura con manejo basado en derechos,4,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de transferibilidad,NA,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de seguridad,NA,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de durabilidad,NA,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de flexibilidad,NA,1,Pepino de mar
+Input,Derechos de propiedad y responsabilidad,Derechos sobre la captura,No aplica,Índice de exclusividad,NA,1,Pepino de mar
+Input,Co-manejo,Acción colectiva,No aplica,Proporción de pescadores/as en organizaciones de pesca,2,1,Pepino de mar
+Input,Co-manejo,Acción colectiva,No aplica,Influencia de las organizaciones de pesca en manejo y acceso,2,1,Pepino de mar
+Input,Co-manejo,Acción colectiva,No aplica,Influencia de las organizaciones de pesca en negocios y mercado,2,1,Pepino de mar
+Input,Co-manejo,Participación,No aplica,Días de reuniones con las partes interesadas,4,1,Pepino de mar
+Input,Co-manejo,Participación,No aplica,Apoyo financiero de la industria pesquera para el manejo,4,1,Pepino de mar
+Input,Co-manejo,Comunidad,No aplica,Liderazgo,2,1,Pepino de mar
+Input,Co-manejo,Comunidad,No aplica,Cohesión social,5,1,Pepino de mar
+Input,Co-manejo,Género,No aplica,Influencia en la gestión de negocios,2,1,Pepino de mar
+Input,Co-manejo,Género,No aplica,Influencia en la gestión pesquera,5,1,Pepino de mar
+Input,Co-manejo,Género,No aplica,Participación laboral en las capturas,1,1,Pepino de mar
+Input,Co-manejo,Género,No aplica,Participación laboral post-captura,3,1,Pepino de mar
+Input,Gestión,Entradas de gestión,No aplica,Gastos de manejo comparado con el valor de la captura,1,1,Pepino de mar
+Input,Gestión,Entradas de gestión,No aplica,Capacidad de control y vigilancia,1,1,Pepino de mar
+Input,Gestión,Entradas de gestión,No aplica,Jurisdicción en el manejo,1,1,Pepino de mar
+Input,Gestión,Entradas de gestión,No aplica,Nivel de subsidios,4,1,Pepino de mar
+Input,Gestión,Datos,No aplica,Disponibilidad de datos,1,1,Pepino de mar
+Input,Gestión,Datos,No aplica,Análisis de datos,4,1,Pepino de mar
+Input,Gestión,Métodos de gestión,No aplica,Áreas marinas protegidas y santuarios,3,1,Pepino de mar
+Input,Gestión,Métodos de gestión,No aplica,Manejo espacial,4,1,Pepino de mar
+Input,Gestión,Métodos de gestión,No aplica,Límites en la mortalidad por pesca,2,1,Pepino de mar
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Sistema de precio de desembarques,5,1,Pepino de mar
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Disponibilidad de información de precios de primera mano y cantidad,2,1,Pepino de mar
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Número de compradores,3,1,Pepino de mar
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Grado de integración vertical,5,1,Pepino de mar
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Nivel de tarifas,5,1,Pepino de mar
+Input,Post-captura,Mercados e instituciones de mercado,No aplica,Nivel de barreras no tarifarias,2,1,Pepino de mar
+Input,Post-captura,Infraestructura,No aplica,Servicio de transporte de carga internacional,1,1,Pepino de mar
+Input,Post-captura,Infraestructura,No aplica,Índice de calidad vial,2,1,Pepino de mar
+Input,Post-captura,Infraestructura,No aplica,Adopción de tecnología,4,1,Pepino de mar
+Input,Post-captura,Infraestructura,No aplica,Servicio de extensionismo,5,1,Pepino de mar
+Input,Post-captura,Infraestructura,No aplica,Confianza en servicios públicos de electricidad,2,1,Pepino de mar
+Input,Post-captura,Infraestructura,No aplica,Acceso a hielo y refrigeración,2,1,Pepino de mar
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Porcentaje de sobrepesca de la especie,3,1,Pepino de mar
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Grado de sobrepesca,2,1,Pepino de mar
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,"Población decreciente, estable o en recuperación",1,1,Pepino de mar
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Mortalidad reglamentada,2,1,Pepino de mar
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Selectividad,5,1,Pepino de mar
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,"Pesca ilegal, no regulada, no reglamentada",3,1,Pepino de mar
+Output,Desempeño de la población biológica,Pesquería ecológicamente sostenible,Ecología,Estado del hábitat crítico,5,1,Pepino de mar
+Output,Desempeño del sector extractivo,Extracción,Economía,Nivel de desembarques,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Extracción,Economía,Exceso de capacidad pesquera,1,1,Pepino de mar
+Output,Desempeño del sector extractivo,Extracción,Economía,Duración de la temporada de pesca,4,1,Pepino de mar
+Output,Desempeño del sector extractivo,Extracción,Economía,Seguridad en el mar,1,1,Pepino de mar
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Relación entre el valor de activos e ingresos brutos,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Ingresos totales comparados con los máximos históricos,4,1,Pepino de mar
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Valor de los activos comparado con los máximos históricos,1,1,Pepino de mar
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Tasa de interés de préstamo comparada con tasa de interés libre de riesgo,5,1,Pepino de mar
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Fuentes de financiamiento,3,1,Pepino de mar
+Output,Desempeño del sector extractivo,Activos para la extracción,Economía,Funcionalidad del capital para la extracción,3,1,Pepino de mar
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los ingresos,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los desembarques,5,1,Pepino de mar
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad intra-anual de los desembarques,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad anual de los precios,3,1,Pepino de mar
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad intra-anual de los precios,5,1,Pepino de mar
+Output,Desempeño del sector extractivo,Riesgos,Economía,Volatilidad espacial de los precios,5,1,Pepino de mar
+Output,Desempeño del sector extractivo,Riesgos,Comunidad,Contestabilidad y desafíos legales,4,1,Pepino de mar
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Ganancias de los armadores comparadas con las ganancias promedio regionales,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Salarios de los armadores comparadas con salarios de actividades no pesqueras,3,1,Pepino de mar
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Acceso a la educación de los armadores,5,1,Pepino de mar
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Acceso a la salud de los armadores,5,1,Pepino de mar
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Estatus social de los armadores,1,1,Pepino de mar
+Output,Desempeño del sector extractivo,Armadores,Comunidad,Proporción de armadores no residentes,3,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Ganancias de la tripulación comparadas con las ganancias promedio regionales,4,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Salarios de la tripulación comparadas con salarios de actividades no pesqueras,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Acceso a la educación de la tripulación,4,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Acceso a la salud de la tripulación,1,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Estatus social de la tripulación,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Proporción tripulación no residente,2,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Experiencia de la tripulación,4,1,Pepino de mar
+Output,Desempeño del sector extractivo,Tripulación,Comunidad,Estructura de edad de la tripulación,3,1,Pepino de mar
+Output,Desempeño en post-captura,Mercado,Economía,Precios de primera mano comparado con los máximos históricos,2,1,Pepino de mar
+Output,Desempeño en post-captura,Mercado,Economía,Uso final en el mercado,3,1,Pepino de mar
+Output,Desempeño en post-captura,Mercado,Economía,Comercio internacional,5,1,Pepino de mar
+Output,Desempeño en post-captura,Mercado,Economía,Riqueza final del mercado,2,1,Pepino de mar
+Output,Desempeño en post-captura,Mercado,Economía,Precio mayorista comparado con productos similares,4,1,Pepino de mar
+Output,Desempeño en post-captura,Mercado,Economía,Capacidad de las empresas para exportar a EEUU y UE,4,1,Pepino de mar
+Output,Desempeño en post-captura,Mercado,Economía,Márgenes de ganancia entre precio de primera mano y precio mayorista,3,1,Pepino de mar
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Rendimiento del procesamiento,4,1,Pepino de mar
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Pérdida en procesamiento (shrink),5,1,Pepino de mar
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Tasa en la capacidad de procesamiento,1,1,Pepino de mar
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Mejora de producto,5,1,Pepino de mar
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Comunidad,Sanidad,2,1,Pepino de mar
+Output,Desempeño en post-captura,"Post-captura, procesamiento y soporte",Economía,Empresas de soporte en la región,5,1,Pepino de mar
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Tasa de interés de préstamo comparada con tasa de interés libre de riesgo,2,1,Pepino de mar
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Fuentes de financiamiento,3,1,Pepino de mar
+Output,Desempeño en post-captura,Activos para la post-captura,Economía,Edad de las instalaciones,2,1,Pepino de mar
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Ganancias de gerentes comparadas con las ganancias promedio regionales,5,1,Pepino de mar
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Salarios de gerentes comparadas con salarios de actividades no pesqueras,3,1,Pepino de mar
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Acceso a la educación de gerentes,5,1,Pepino de mar
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Acceso a la salud de gerentes,5,1,Pepino de mar
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Estatus social de gerentes,1,1,Pepino de mar
+Output,Desempeño en post-captura,Gerentes de procesadoras,Comunidad,Proporción de gerentes no residente,5,1,Pepino de mar
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Ganancias de trabajadores/as comparadas con las ganancias promedio regionales,5,1,Pepino de mar
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Salarios de trabajadores/as comparadas con salarios de actividades no pesqueras,5,1,Pepino de mar
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Acceso a la educación de trabajadores/as,4,1,Pepino de mar
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Acceso a la salud de trabajadores/as,3,1,Pepino de mar
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Estatus social de trabajadores/as,4,1,Pepino de mar
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Proporción de trabajadores/as no residente,5,1,Pepino de mar
+Output,Desempeño en post-captura,Trabajadores/as de procesadoras,Comunidad,Experiencia de trabajadores/as,2,1,Pepino de mar
